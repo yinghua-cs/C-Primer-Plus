@@ -1,2 +1,2 @@
 # Code-Notes
-Place to put code in notes
+A place to put code in notes
