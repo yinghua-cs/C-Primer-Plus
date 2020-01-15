@@ -1,1 +1,1 @@
-# Codes for C Primer Plus, 6th.
+# Codes from C Primer Plus, 6th.
