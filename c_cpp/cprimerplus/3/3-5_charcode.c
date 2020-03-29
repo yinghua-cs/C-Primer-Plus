@@ -8,13 +8,17 @@
 
 int main(void)
 {
-	char ch;
-	// ch = '\101';
-	// printf("%c", c);
+	// Printing chinese with octal value.
+	// char ch, ch1, ch2;
+	// ch = '\345';
+	// ch1 = '\256';
+	// ch2 = '\232';
+	// printf("%c%c%c", ch, ch1, ch2);
 
+	char ch;
 	printf("Please enter a character.\n");
 	scanf("%c", &ch); // user inputs character
-	printf("The coe for %c is %d.\n", ch, ch);
+	printf("The code for %c is %d.\n", ch, ch);
 
 	return 0;
 
