@@ -5,7 +5,7 @@
 
 void func(unsigned char value)
 {
-	char c = value;
+	char c = value;	// some implementations set char == unsigned char
 	unsigned char uc = value;
 	unsigned int a = c, b = uc;
 	int i = c, j = uc;
