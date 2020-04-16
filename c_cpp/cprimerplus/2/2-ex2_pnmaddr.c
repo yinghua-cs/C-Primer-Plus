@@ -1,5 +1,5 @@
 //
-//  ex2_pnmaddr.c
+//  2-ex2_pnmaddr.c - print your name and address
 //  - Solution to Programming Exercise 2, Chapter 2, C Primer Plus, 6th.
 //
 //  Created by Yinghua Han on 2/4/19.

@@ -23,7 +23,6 @@ int main(void)
 	printf("Your weight in  platinum is worth $%.2f.\n", value);
 	printf("You are easily worth that! if platinum prices drop, \n");
 	printf("eat more to maintain your value. \n");
-	printf("%d", sizeof(int));
 
 	return 0;
 

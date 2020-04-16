@@ -9,9 +9,9 @@
 int main(void)
 {
 	// Initializing
-	int x = 100;	// decimal
+	// int x = 100;	// decimal
 	// int x = 0100;	// octal
-	// int x = 0x100;	// hexadecimal
+	int x = 0xaa;	// hexadecimal
 
 	printf("dec = %d; octal = %o; hex = %x\n", x, x, x);
 	printf("dec = %d; octal = %#o; hex = %#x\n", x, x, x);

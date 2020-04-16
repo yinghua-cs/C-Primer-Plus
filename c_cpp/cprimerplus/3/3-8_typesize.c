@@ -1,5 +1,5 @@
 //  typesize.c -- prints out type sizes
-//  - Type Sizes, Chapter 3, C Primer Plus, 6th.
+//  - Listing 3.8, Chapter 3, C Primer Plus, 6th.
 //
 //  Created by Yinghua Han on 4/6/2020.
 //  Copyright © 2020 Yinghua Han. All rights reserved.

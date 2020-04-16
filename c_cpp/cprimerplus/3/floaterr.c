@@ -15,7 +15,8 @@ int main(void)
 	printf("%f \n", a);	
 	// result: 4008175468544.000000 
 	// reason: it needs 21-digit precision but a float number can only hold 6 or 7 digit of precision. 
-
+	printf("%f \n", b);
+	
 	return 0;
 
 }

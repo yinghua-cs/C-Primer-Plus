@@ -1,5 +1,5 @@
 //
-//  ex6_toes.c
+//  2-ex6_toes.c - identify variables
 //  - Solution to Programming Exercise 6, Chapter 2, C Primer Plus, 6th.
 //
 //  Created by Yinghua Han on 2/4/19.

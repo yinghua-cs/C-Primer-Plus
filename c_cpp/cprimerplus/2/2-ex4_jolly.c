@@ -1,5 +1,5 @@
 //
-//  ex4_jolly.c
+//  2-ex4_jolly.c - use functions
 //  - Solution to Programming Exercise 4, Chapter 2, C Primer Plus, 6th.
 //
 //  Created by Yinghua Han on 2/4/19.

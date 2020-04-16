@@ -1,5 +1,5 @@
 //
-//  ex7_smile.c
+//  2-ex7_smile.c - use functions
 //  - Solution to Programming Exercise 7, Chapter 2, C Primer Plus, 6th.
 //
 //  Created by Yinghua Han on 2/4/19.

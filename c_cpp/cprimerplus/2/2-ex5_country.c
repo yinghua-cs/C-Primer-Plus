@@ -1,5 +1,5 @@
 //
-//  ex5_country.c
+//  2-ex5_country.c - use functions
 //  - Solution to Programming Exercise 5, Chapter 2, C Primer Plus, 6th.
 //
 //  Created by Yinghua Han on 2/4/19.
