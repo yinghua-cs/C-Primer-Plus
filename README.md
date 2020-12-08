@@ -1,2 +1,1 @@
-# workspace
-A place for code
+# Codes from C Primer Plus, 6th.
