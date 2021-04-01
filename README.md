@@ -1,1 +1,1 @@
-# Code from C Primer Plus, 6th.
+# Source code & exercises of C Primer Plus, 6th.
